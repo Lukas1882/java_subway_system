@@ -13,3 +13,5 @@ In my system,diffent lines may have differnt timetable, that'a huge work for me 
 the algorithm, just better use the start time before 10 AM in the java program. 
 
 Thanks for downloading and sharing.
+
+This is under the Public License version 2 (GPLv2)
